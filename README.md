@@ -92,7 +92,6 @@ For an event or alert, review:
 ![](screenshots/agent.png)
 ![](screenshots/sysmon_event.png)
 ![](screenshots/builtin_alert.png)
-![](screenshots/dashboard.png)
 ![](screenshots/custom_rules.png)
 
 ## Skills demonstrated
